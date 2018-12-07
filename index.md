@@ -1,4 +1,4 @@
-[CV](cv.md)  [Publication](pub.md)  [Research](research.md)
+## [CV](cv.md)    [Publication](pub.md)    [Research](research.md)
 
 # Welcome to my Homepage
 
