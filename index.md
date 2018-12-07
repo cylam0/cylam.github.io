@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my Homepage
+
+I am a postdoctoral fellow at the Michigan State University, working in the Mathematics group led by Prof. Qian Jiangliang.
+I am currently working on **numerical micro-local analysis**, forward modeling of **elastic-acoustic interface** and an **inverse problem for elastic wave equation**.
+
+I graduated in August 2017 from the Chinese University of Hong Kong with a PhD in Mathematics under the supervision of Prof. Eric T. Chung.
+
+During my five year PhD study, with my supervisor Eric T. Chung and other collaborators, I had extended the **staggered discontinuous Garlerkin method** to **elastic wave propgation** and other applications. Also, during my visit to the Brown university in 2016, I had devise a **phased-based IPDG method for Helmholtz equation**, which use wave-like function as basis instead of polynomials.
+
+I have built various solvers for different problems using **Matlab**, including the SDG methods for elastic wave equations and its strong symmetry version, a SDG Stokes solver with motar formulation, an phase-based IPDG solver for the Helmholtz equation.
+
+Currently, I am particularly interested in Machine learning, Numerical analysis, Scientific Computing and Wave propagation.
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cylam0/cylam.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +48,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ -->
