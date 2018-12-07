@@ -1,4 +1,4 @@
-[CV](cv.md)&nbsp; &nbsp; &nbsp; &nbsp;[Publication](pub.md)&nbsp; &nbsp; &nbsp; &nbsp;[Research](research.md)
+[Home](index.md) &nbsp; &nbsp; &nbsp; &nbsp;[CV](cv.md) &nbsp; &nbsp; &nbsp; &nbsp; **Publication**&nbsp; &nbsp; &nbsp; &nbsp;[Research](research.md)
 
 # Publications
 * Chi-Yeung Lam and Jianliang Qian. *Numerical microlocal analysis by fast Gaussian wavepacket transform and application to high-frequency Helmholtz problems.* 2018. submitted.
