@@ -1,6 +1,6 @@
 [Home](index.md) &nbsp; &nbsp; &nbsp; &nbsp;[CV](cv.md) &nbsp; &nbsp; &nbsp; &nbsp; **Publication**&nbsp; &nbsp; &nbsp; &nbsp;[Research](research.md)
 
-# Publications
+# Publication
 * Chi-Yeung Lam and Jianliang Qian. *Numerical microlocal analysis by fast Gaussian wavepacket transform and application to high-frequency Helmholtz problems.* 2018. submitted.
 
 * Eric T. Chung, Chi Yeung Lam, and Jianliang Qian. *A ray-based IPDG method for high-frequency time-domain acoustic wave propagation in inhomogeneous media*. Journal of Computational Physics, 348:600-682,2017.
