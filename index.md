@@ -9,7 +9,7 @@ I graduated in August 2017 from the Chinese University of Hong Kong with a PhD i
 
 During my five year PhD study, with my supervisor Eric T. Chung and other collaborators, I had developed a **staggered discontinuous Garlerkin method** for **elastic wave propagation**. Also, during my visit to the Brown university in 2016, I had devise a **phased-based IPDG method for Helmholtz equation**, which use wave-like function as basis instead of polynomials.
 
-I have built various solvers for different problems using **Matlab**, including the SDG methods for elastic wave equations and its strong symmetry version, a SDG Stokes solver with motar formulation, an phase-based IPDG solver for the Helmholtz equation.
+I have built various solvers for different problems using **Matlab**, including the SDG methods for elastic wave propagation and its strong symmetry version, a SDG Stokes solver with motar formulation, an phase-based IPDG solver for the Helmholtz equation. All of these solvers are in two dimensions. In order to built these solver efficiently, I have created a system for numerical integration on triangular mesh.
 
 Currently, I am particularly interested in Machine learning, Numerical analysis, Scientific Computing and Wave propagation.
 
