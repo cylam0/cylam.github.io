@@ -3,9 +3,11 @@
 # Publication
 * Chi-Yeung Lam and Jianliang Qian. *Numerical microlocal analysis by fast Gaussian wavepacket transform and application to high-frequency Helmholtz problems.* 2018. submitted.
 
-* Eric T. Chung, Chi Yeung Lam, and Jianliang Qian. *A ray-based IPDG method for high-frequency time-domain acoustic wave propagation in inhomogeneous media*. Journal of Computational Physics, 348:600-682,2017.
+* Eric T Chung, Jie Du, Chi Yeung Lam. *Discontinuous Galerkin methods with staggered hybridization for linear elastodynamics*. Computers & Mathematics with Applications 74.6: 1198-1214, 2017.
 
-* Chi Yeung Lam and Chi-Wang Su. *A phase-based interior penalty discontinuous Garlerkin method for the Helmholtz equation with spatially varying wavenumber.* Computer Methods in Applied Mechanics and Engineering, 318:456-473
+* Eric T. Chung, Chi Yeung Lam, and Jianliang Qian. *A ray-based IPDG method for high-frequency time-domain acoustic wave propagation in inhomogeneous media*. Journal of Computational Physics (2017), 348:600-682.
+
+* Chi Yeung Lam and Chi-Wang Su. *A phase-based interior penalty discontinuous Garlerkin method for the Helmholtz equation with spatially varying wavenumber.* Computer Methods in Applied Mechanics and Engineering (2017), 318:456-473
 
 * Eric T. Chung, Ming Fai Lam, and Chi Yeung Lam. *A staggered discontinuous Galerkin method for a class of nonlinear elliptic equations.* Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2016. Springer, Cham, 2017. 585-597.
 
