@@ -5,7 +5,7 @@ I am currently working on **numerical micro-local analysis**, forward modeling o
 
 I graduated in August 2017 from the Chinese University of Hong Kong with a PhD in Mathematics under the supervision of Prof. Eric T. Chung.
 
-During my five year PhD study, with my supervisor Eric T. Chung and other collaborators, I had extended the **staggered discontinuous Garlerkin method** to **elastic wave propgation** and other applications. Also, during my visit to the Brown university in 2016, I had devise a **phased-based IPDG method for Helmholtz equation**, which use wave-like function as basis instead of polynomials.
+During my five year PhD study, with my supervisor Eric T. Chung and other collaborators, I had developed a **staggered discontinuous Garlerkin method** for **elastic wave propagation**. Also, during my visit to the Brown university in 2016, I had devise a **phased-based IPDG method for Helmholtz equation**, which use wave-like function as basis instead of polynomials.
 
 I have built various solvers for different problems using **Matlab**, including the SDG methods for elastic wave equations and its strong symmetry version, a SDG Stokes solver with motar formulation, an phase-based IPDG solver for the Helmholtz equation.
 
