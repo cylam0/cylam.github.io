@@ -1,3 +1,5 @@
+[Resume](resume.md) [Publication](pub.md) [Research](research.md)
+
 # Welcome to my Homepage
 
 I am a postdoctoral fellow at the Michigan State University, working in the Mathematics group led by Prof. Qian Jiangliang.
@@ -10,8 +12,6 @@ During my five year PhD study, with my supervisor Eric T. Chung and other collab
 I have built various solvers for different problems using **Matlab**, including the SDG methods for elastic wave equations and its strong symmetry version, a SDG Stokes solver with motar formulation, an phase-based IPDG solver for the Helmholtz equation.
 
 Currently, I am particularly interested in Machine learning, Numerical analysis, Scientific Computing and Wave propagation.
-
-# CV
 
 <!-- ## Welcome to GitHub Pages
 
