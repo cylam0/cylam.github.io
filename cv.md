@@ -1,4 +1,5 @@
-# My CV
+[Home](index.md)&nbsp; &nbsp; &nbsp; **CV** &nbsp; &nbsp; &nbsp; &nbsp;[Publication](pub.md)&nbsp; &nbsp; &nbsp; &nbsp;[Research](research.md)
+# CV
 ## Education
 * Ph.D. in Mathematics, The Chinese University of Hong Kong, 2017
 	* Thesis title : *On the Computation for High-Frequency Wave Propagation Using Phase in Galerkin methods*
