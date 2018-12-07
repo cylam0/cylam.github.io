@@ -1,4 +1,4 @@
-### Welcome to my Homepage
+# Welcome to my Homepage
 
 I am a postdoctoral fellow at the Michigan State University, working in the Mathematics group led by Prof. Qian Jiangliang.
 I am currently working on **numerical micro-local analysis**, forward modeling of **elastic-acoustic interface** and an **inverse problem for elastic wave equation**.
@@ -11,7 +11,7 @@ I have built various solvers for different problems using **Matlab**, including 
 
 Currently, I am particularly interested in Machine learning, Numerical analysis, Scientific Computing and Wave propagation.
 
-### CV
+# CV
 
 <!-- ## Welcome to GitHub Pages
 
